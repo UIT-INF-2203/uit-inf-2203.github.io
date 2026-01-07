@@ -57,7 +57,7 @@ Below is the scheduled dates and topics for lectures and project hand-outs. Plea
 | Wk# | Wk of      | Mon                 | Tue               | Week Notes                                    |
 |-----|------------|---------------------|-------------------|-----------------------------------------------|
 | w02 | Mon Jan 05 | L00 Intro, L01 Boot | starting programs |                                               |
-| w03 | Mon Jan 12 | TBD (slot 3)        | **P1 Hand-Out**   |                                               |
+| w03 | Mon Jan 12 |                     | **P1 Hand-Out**   |                                               |
 | w04 | Mon Jan 19 | TBD (slot 4)        | TBD (slot 5)      | Mike away                                     |
 | w05 | Mon Jan 26 | TBD (slot 6)        | TBD (slot 7)      |                                               |
 | w06 | Mon Feb 02 | TBD (slot 8)        | TBD (slot 9)      | Thu: **P1 Hand-In**; Fri: *Sámi National Day* |
