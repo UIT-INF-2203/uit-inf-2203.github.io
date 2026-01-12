@@ -94,9 +94,6 @@ Below is the scheduled dates and topics for lectures and project hand-outs. Plea
 | P3      |                                              | MM       |
 | P4      |                                              | MM       |
 
-We are restructuring the course. P1 is no longer a mandatory project,
-and some of tasks from the old P1 project are moved to P2.
-
 ## Deadlines ⏰
 As a general rule (please check the schedule above as we may have to adjust to red days and room cancellations)
 - hand out projects **not before** lectures on Tuesday.
