@@ -29,12 +29,11 @@ aux_links:
     - "https://github.com/uit-inf-2203"
 
   "2203 on Canvas":
-    - "https://uit.instructure.com/"
+    - "https://uit.instructure.com/courses/40994"
 
 nav_external_links:
-  - title: Lectures on Canvas
-    url: https://uit.instructure.com/courses/36446/files/folder/Lectures
-
+  - title: Additional Lectures on Canvas
+    url: "https://uit.instructure.com/courses/40994/files"
 
 # Document collections
 collections:
