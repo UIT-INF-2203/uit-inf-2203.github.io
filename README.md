@@ -65,7 +65,7 @@ Below is the scheduled dates and topics for lectures and project hand-outs. Plea
 | w08 | Mon Feb 16 | TBD (slot 10)           | TBD (slot 11)                   |                                               |
 | w09 | Mon Feb 23 | TBD (slot 12)           | TBD (slot 13)                   | Fri: **P2 Hand-In**                           |
 | w10 | Mon Mar 02 | TBD (slot 14)           | **P3 Hand-Out**                 |                                               |
-| w11 | Mon Mar 09 | TBD (slot 15)           | TBD (slot 16)                   |                                               |
+| w11 | Mon Mar 09 | TBD (slot 15)           | ...                             | IfI seminar Tuesday                           |
 | w12 | Mon Mar 16 | TBD (slot 17)           | TBD (slot 18)                   | Fri: **P3 Hand-In**                           |
 | w13 | Mon Mar 23 | TBD (slot 19)           | **P4 Hand-Out**                 |                                               |
 | w14 | Mon Mar 30 | ---                     | ---                             | Easter Break                                  |
