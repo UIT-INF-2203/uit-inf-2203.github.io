@@ -52,30 +52,30 @@ Below is the scheduled dates and topics for lectures and project hand-outs. Plea
 - **The schedule is tentative and will be updated**
 - We may not be in the same room every day or week. Please check your calendar or the room allocation plan above for updated information.
 
-| Wk# | Wk of      | Mon                         | Tue                             | Week Notes                                    |
-|-----|------------|-----------------------------|---------------------------------|-----------------------------------------------|
-| w02 | Mon Jan 05 | L00 Intro, L01 Boot         | starting programs               |                                               |
-| w03 | Mon Jan 12 |                             | **P1 Hand-Out**                 |                                               |
-| w04 | Mon Jan 19 |                             | syscalls, processes, protection | Mike away                                     |
-| w05 | Mon Jan 26 |                             | OS structure                    |                                               |
-| w06 | Mon Feb 02 | I/O devices and drivers     |                                 | Thu: **P1 Hand-In**; Fri: *Sámi National Day* |
-| w07 | Mon Feb 09 | **P2 Hand-Out**             | *TEK-dagen*                     |                                               |
-| w08 | Mon Feb 16 | L05 Threads, sched, preempt | L05 cont                        |                                               |
-| w09 | Mon Feb 23 | L06 Concurrency, synch.     | L06 cont                        | Fri: **P2 Hand-In**                           |
-| w10 | Mon Mar 02 | TBD (slot 14)               | **P3 Hand-Out**                 |                                               |
-| w11 | Mon Mar 09 | TBD (slot 15)               | ...                             | IfI seminar Tuesday                           |
-| w12 | Mon Mar 16 | TBD (slot 17)               | TBD (slot 18)                   | Fri: **P3 Hand-In**                           |
-| w13 | Mon Mar 23 | TBD (slot 19)               | **P4 Hand-Out**                 |                                               |
-| w14 | Mon Mar 30 | ---                         | ---                             | Easter Break                                  |
-| w15 | Mon Apr 06 | *Easter Monday*             | TBD (slot 20)                   |                                               |
-| w16 | Mon Apr 13 | TBD (slot 21)               | TBD (slot 22)                   |                                               |
-| w17 | Mon Apr 20 | TBD (slot 23)               | TBD (slot 24)                   | Fri: **P4 Hand-In**                           |
-| w18 | Mon Apr 27 | TBD (slot 25)               | TBD (slot 26)                   | Fri: *Labor Day*                              |
-| w19 | Mon May 04 | TBD (slot 27)               | TBD (slot 28)                   |                                               |
-| w20 | Mon May 11 | TBD (slot 29)               | TBD (slot 30)                   | Thu: *Ascension Day*; Sun: *17. Mai*          |
-| w21 | Mon May 18 | ---                         | ---                             | Sun: *Whit Sunday*                            |
-| w22 | Mon May 25 | *Whit Monday*               | ---                             |                                               |
-| w23 | Mon Jun 01 | Exam Week?                  | Exam Week?                      | Exam Week (Tentative)                         |
+| Wk# | Wk of      | Mon                          | Tue                                 | Week Notes                                    |
+|-----|------------|------------------------------|-------------------------------------|-----------------------------------------------|
+| w02 | Mon Jan 05 | L00 Intro, L01 Boot          | L02 starting programs               |                                               |
+| w03 | Mon Jan 12 |                              | **P1 Hand-Out**                     |                                               |
+| w04 | Mon Jan 19 |                              | L03 syscalls, processes, protection | Mike away                                     |
+| w05 | Mon Jan 26 |                              | L04 OS structure                    |                                               |
+| w06 | Mon Feb 02 | L05 I/O devices and drivers  |                                     | Thu: **P1 Hand-In**; Fri: *Sámi National Day* |
+| w07 | Mon Feb 09 | **P2 Hand-Out**              | *TEK-dagen*                         |                                               |
+| w08 | Mon Feb 16 | L06 Threads, sched, preempt  | L06 cont                            |                                               |
+| w09 | Mon Feb 23 | L07 Concurrency, synch.      | L07 cont                            | Fri: **P2 Hand-In**                           |
+| w10 | Mon Mar 02 | TBD (slot 14)                | **P3 Hand-Out**                     |                                               |
+| w11 | Mon Mar 09 | TBD (slot 15)                | ...                                 | IfI seminar Tuesday                           |
+| w12 | Mon Mar 16 | TBD (slot 17)                | TBD (slot 18)                       | Fri: **P3 Hand-In**                           |
+| w13 | Mon Mar 23 | TBD (slot 19)                | **P4 Hand-Out**                     |                                               |
+| w14 | Mon Mar 30 | ---                          | ---                                 | Easter Break                                  |
+| w15 | Mon Apr 06 | *Easter Monday*              | TBD (slot 20)                       |                                               |
+| w16 | Mon Apr 13 | TBD (slot 21)                | TBD (slot 22)                       |                                               |
+| w17 | Mon Apr 20 | TBD (slot 23)                | TBD (slot 24)                       | Fri: **P4 Hand-In**                           |
+| w18 | Mon Apr 27 | TBD (slot 25)                | TBD (slot 26)                       | Fri: *Labor Day*                              |
+| w19 | Mon May 04 | TBD (slot 27)                | TBD (slot 28)                       |                                               |
+| w20 | Mon May 11 | TBD (slot 29)                | TBD (slot 30)                       | Thu: *Ascension Day*; Sun: *17. Mai*          |
+| w21 | Mon May 18 | ---                          | ---                                 | Sun: *Whit Sunday*                            |
+| w22 | Mon May 25 | *Whit Monday*                | ---                                 |                                               |
+| w23 | Mon Jun 01 | Exam Week?                   | Exam Week?                          | Exam Week (Tentative)                         |
 
 ## Readings
 
