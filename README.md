@@ -60,7 +60,7 @@ Below is the scheduled dates and topics for lectures and project hand-outs. Plea
 | w05 | Mon Jan 26 |                              | L04 OS structure                    |                                               |
 | w06 | Mon Feb 02 | L05 I/O devices and drivers  |                                     | Thu: **P1 Hand-In**; Fri: *Sámi National Day* |
 | w07 | Mon Feb 09 | **P2 Hand-Out**              | *TEK-dagen*                         |                                               |
-| w08 | Mon Feb 16 | L06 Threads, sched, preempt  | L06 cont                            |                                               |
+| w08 | Mon Feb 16 | L06 Threads, sched, preempt  |                                     |                                               |
 | w09 | Mon Feb 23 | L07 Concurrency, synch.      | L07 cont                            | Fri: **P2 Hand-In**                           |
 | w10 | Mon Mar 02 | TBD (slot 14)                | **P3 Hand-Out**                     |                                               |
 | w11 | Mon Mar 09 | TBD (slot 15)                | ...                                 | IfI seminar Tuesday                           |
