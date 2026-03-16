@@ -64,7 +64,7 @@ Below is the scheduled dates and topics for lectures and project hand-outs. Plea
 | w09 | Mon Feb 23 | L07 Concurrency, synch.     | L07 cont                            | Fri: **P2 Hand-In**                           |
 | w10 | Mon Mar 02 |                             | **P3 Hand-Out**                     |                                               |
 | w11 | Mon Mar 09 |                             | ...                                 | IfI seminar Tuesday                           |
-| w12 | Mon Mar 16 | TBD (slot 17)               | TBD (slot 18)                       | Fri: **P3 Hand-In**                           |
+| w12 | Mon Mar 16 | L08 IPC                     | L08 cont                            | Fri: **P3 Hand-In**                           |
 | w13 | Mon Mar 23 | TBD (slot 19)               | **P4 Hand-Out**                     |                                               |
 | w14 | Mon Mar 30 | ---                         | ---                                 | Easter Break                                  |
 | w15 | Mon Apr 06 | *Easter Monday*             | TBD (slot 20)                       |                                               |
