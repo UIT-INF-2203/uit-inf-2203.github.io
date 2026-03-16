@@ -64,10 +64,10 @@ Below is the scheduled dates and topics for lectures and project hand-outs. Plea
 | w09 | Feb 23 | L07 Concurrency, synch.     | L07 cont                            |           |                 | **P2 Hand-In**      |                       |
 | w10 | Mar 02 |                             | **P3 Hand-Out**                     |           |                 |                     |                       |
 | w11 | Mar 09 |                             | ...                                 |           |                 |                     | IfI seminar Tuesday   |
-| w12 | Mar 16 | L08 IPC                     | L08 cont                            |           |                 | **P3 Hand-In**      |                       |
-| w13 | Mar 23 | TBD (slot 19)               | **P4 Hand-Out**                     |           |                 |                     |                       |
+| w12 | Mar 16 | L08 IPC                     | L08 cont                            |           |                 |                     |                       |
+| w13 | Mar 23 | TBD (slot 19)               |                                     |           |                 | **P3 Hand-In**      |                       |
 | w14 | Mar 30 | ---                         | ---                                 | ---       | ---             | ---                 | **Easter Break**      |
-| w15 | Apr 06 | *Easter Monday*             | TBD (slot 20)                       |           |                 |                     |                       |
+| w15 | Apr 06 | *Easter Monday*             | **P4 Hand-Out**                     |           |                 |                     |                       |
 | w16 | Apr 13 | TBD (slot 21)               | TBD (slot 22)                       |           |                 |                     |                       |
 | w17 | Apr 20 | TBD (slot 23)               | TBD (slot 24)                       |           |                 | **P4 Hand-In**      |                       |
 | w18 | Apr 27 | TBD (slot 25)               | TBD (slot 26)                       |           |                 | *Labor Day*         |                       |
