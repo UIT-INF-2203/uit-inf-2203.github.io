@@ -68,7 +68,7 @@ Below is the scheduled dates and topics for lectures and project hand-outs. Plea
 | Mar 23 (w13) |                             |                                     |       |                 | **P3 Hand-In**      |                     |
 | Mar 30 (w14) | ---                         | ---                                 | ---   | ---             | ---                 | **Easter Break**    |
 | Apr 06 (w15) | *Easter Monday*             | **P4 Hand-Out**                     |       |                 |                     |                     |
-| Apr 13 (w16) | TBD (slot 21)               | TBD (slot 22)                       |       |                 |                     |                     |
+| Apr 13 (w16) |                             |                                     |       |                 |                     |                     |
 | Apr 20 (w17) | TBD (slot 23)               | TBD (slot 24)                       |       |                 | **P4 Hand-In**      |                     |
 | Apr 27 (w18) | TBD (slot 25)               | TBD (slot 26)                       |       |                 | *Labor Day*         |                     |
 | May 04 (w19) | TBD (slot 27)               | TBD (slot 28)                       |       |                 |                     |                     |
