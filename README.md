@@ -71,8 +71,8 @@ Below is the scheduled dates and topics for lectures and project hand-outs. Plea
 | Apr 13 (w16) |                             |                                     |       |                 |                     |                     |
 | Apr 20 (w17) |                             |                                     |       |                 | **P4 Hand-In**      |                     |
 | Apr 27 (w18) |                             | Exam Prep                           |       |                 | *Labor Day*         |                     |
-| May 04 (w19) | TBD (slot 27)               | TBD (slot 28)                       |       |                 |                     |                     |
-| May 11 (w20) | TBD (slot 29)               | TBD (slot 30)                       |       | *Ascension Day* |                     | Sun: *17. Mai*      |
+| May 04 (w19) |                             |                                     |       |                 |                     |                     |
+| May 11 (w20) |                             |                                     |       | *Ascension Day* |                     | Sun: *17. Mai*      |
 | May 18 (w21) | ---                         | ---                                 |       |                 |                     | Sun: *Whit Sunday*  |
 | May 25 (w22) | *Whit Monday*               | ---                                 |       |                 |                     |                     |
 | Jun 01 (w23) | Exams                       | Exams                               | Exams |                 |                     | Exam Week           |
